@@ -1,21 +1,9 @@
-# bluebell 维护优化通知
-1. 优化时间 2023年4月12日 至 2023年5月初
-2. 优化内容
-
+# bluebell 介绍
 - [ ] 对bluebell后端代码 进行全体重构优化
 - [ ] 对bluebell前端代码 全部bug进行修复更新并进行全体升级优化
 > 注：项目优化过程中，为了个人数据库安全，会删除全部配置文件。
 > 维护期间拉代码的新人后端会缺少配置，无法启动，需自行配置。
-> 需要后端配置模版的，关注公众号加我微信。
 
-- QQ群：579480724
-- 公众号：Gopher毛
-- 微信：18836288306
-
-**感谢技术支持：**[☆往事随風☆](https://github.com/china-521)
-
-* [个人博客](https://wk-blog.vip)
-* [CSDN](https://blog.csdn.net/m0_47214030?spm=1000.2115.3001.5343)
 
 ## 技能清单
 1. gin框架
@@ -157,17 +145,9 @@
     └── index.html
 ```
 
-## 项目预览图
-
-[//]: # "[![bCORoR.png]&#40;https://s4.ax1x.com/2022/02/23/bCORoR.png&#41;]&#40;https://imgtu.com/i/bCORoR&#41;"
-
-[![image.png](https://i.postimg.cc/brRyjhPL/image.png)](https://postimg.cc/zHVZn4VR)
-
 ## 项目全套笔记
 
 - **视频教程地址**：[GoWeb进阶—两周开发一个基于vue+go+gin+mysql+redis的博客论坛web项目！！！从零到部署上线](https://www.bilibili.com/video/BV1Fb4y14747?spm_id_from=333.999.0.0)
-- **GitHub仓库**：https://github.com/mao888/bluebell
-- **GitEE仓库**：https://gitee.com/hu_maomao/bluebell
 - 编程：用代码解决生活中的问题
 - **技术与知识的区别**：
 - - 知识：记住地球是圆的
